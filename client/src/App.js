@@ -66,7 +66,7 @@ useEffect(() => {
 
 useEffect(() => {
     if(start.length!== 0 && end.length !== 0)
-    fetch(`http://localhost:5000/data/custom?user=1&start=${start}&end=${end}`)
+    fetch(`/data/custom?user=1&start=${start}&end=${end}`)
     .then(res => res.json())
     .then(json => {setData(json);})
     .catch(error => {
