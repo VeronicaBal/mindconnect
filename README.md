@@ -2,7 +2,7 @@
 
 <h2> By Veronica Baldin </h2>
 
-   <a href="https://github.com/VeronicaBal/mindconnect">**Explore the docs »**</a>
+   <a href="http://ktfgiuhqcl.eu09.qoddiapp.com/">**Try it Live**</a>
     <br />
     <br />
     <a href="https://user-images.githubusercontent.com/113427751/208163535-625b0d13-059d-4227-8f85-bcb1750028bc.mov">View Demo</a>
