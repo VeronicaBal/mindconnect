@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1> <b>Mind Connect</b> </h1>
 
 <h2> By Veronica Baldin </h2>
@@ -11,7 +13,6 @@
     ·
     <a href="https://github.com/VeronicaBal/mindconnect/issues">Request Feature</a>
   </p>
-</div>
 <br>
 <details>
   <summary>Table of Contents</summary>
@@ -40,6 +41,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+</div>
 
 ## Introduction
 
