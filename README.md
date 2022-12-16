@@ -1,4 +1,4 @@
-<h1> <b>The Nook</b> </h1>
+<h1> <b>Mind Connect</b> </h1>
 
 <h2> By Veronica Baldin </h2>
 
